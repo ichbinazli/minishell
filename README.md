@@ -1,3 +1,3 @@
-## Made the project
+## Contributors to this project
 - [naanapa](https://profile.intra.42.fr/users/naanapa)
 - [sekeskin](https://profile.intra.42.fr/users/sekeskin)
